@@ -505,19 +505,7 @@ ESC：離開遊戲
 | Game Over 動畫 | 已完成 |
 | Makefile 編譯 | 已完成 |
 
-### 執行畫面截圖
 
-> 可在此處放入遊戲執行畫面截圖。
-
-```markdown
-![遊戲開始畫面](images/start_screen.png)
-
-![遊戲執行畫面](images/gameplay.png)
-
-![遊戲結束畫面](images/game_over.png)
-```
-
----
 
 ## 八、學習心得
 
