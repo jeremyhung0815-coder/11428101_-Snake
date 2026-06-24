@@ -437,6 +437,8 @@ printf("\033[H\033[J");
 
 ## 七、成果展示
 
+影片連結：https://youtu.be/eG-sniC6s2g
+
 本專案完成後，可以透過 `make` 編譯：
 
 ```bash
